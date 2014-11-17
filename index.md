@@ -1,3 +1,7 @@
+---
+author: "Greg Cochard"
+layout: "default"
+---
 # Greg Cochard
 
 ## Node Modules
