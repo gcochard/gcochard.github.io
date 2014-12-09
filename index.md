@@ -1,6 +1,5 @@
 ---
 author: "Greg Cochard"
-layout: "default"
 ---
 # Greg Cochard
 
